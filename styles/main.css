@@ -72,6 +72,15 @@ h2{
 	background-color: #598BBC;
 }
 
+.create-site p{
+	text-align: center;
+	color: white;
+	font-size: 24px;
+	padding-top: 0.4em;
+	margin: 0 auto;
+}
+
+
 /* BUTTON ON OF TOP PAGE */
 #cs-top{
 	border: 12px solid #292E37;
@@ -80,7 +89,7 @@ h2{
 
 /* BUTTON ON BOTTOM OF PAGE */
 #cs-bottom{
-	padding: 2em auto 10em auto;
+	padding: 1em auto 5em auto;
 	margin: 1em auto;
 }
 
@@ -129,11 +138,11 @@ h2{
 }
 
 .divider-text{
-	font-size: 32px;
+	font-size: 26px;
 	color: #394456;
 	text-align: center;
 	margin: 0 auto;
-	padding: 1em;
+	padding: 1.1em;
 }
 
 /* DIV NEAR BOTTOM ON PAGE ONLY */
