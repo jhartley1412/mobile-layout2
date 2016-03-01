@@ -1,0 +1,24 @@
+.greetings-page{
+
+	width: 100%;
+	height: 900px;
+	background-color: #3B4352;
+}
+
+.divider-page{
+	width: 100%;
+	height: 300px;
+	background-color: #EBF0F5;
+}
+
+.icons-page{
+	width: 100%;
+	height: 1100px;
+	background-color: #D2D3D7;
+}
+
+footer{
+	width: 100%;
+	height: 250px;
+	background-color: black; 
+}
