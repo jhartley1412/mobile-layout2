@@ -23,14 +23,14 @@ h1{
 
 h2{
 	font-size: 17px;
-	padding: 0 8em 2em 8em;
+	padding: 0 8em 0 8em;
 	color: white;
 	text-align: center;
 }
 
 .create-site{
-	width: 255px;
-	height: 50px;
+	width: 15em;
+	height: 3em;
 	background-color: #598BBC;
 	border: 12px solid #292E37;
 	margin: 0 auto;
@@ -38,29 +38,39 @@ h2{
 
 
 
-/* ARROW IMAGE -- NOT FIGURED OUT Centering YET */
+/* ARROW IMAGE */
 
 .below-arrow{
+	display: block;
 	width: 30px;
-	padding-top: 30em;
+	padding-top: 20em;
 	padding-bottom: 10em;
-}
-
-img{
 	margin: 0 auto;
 }
 
 
 
-/* FIRST PAGE TABLE -- IMAGES AND TEXT */
+/* LIST ON BOTTOM ON FIRST PAGE */
 
-
-
-.t-text{
+.first-page-list{
+	width: 25em;
+	height: 6em;
 	background-color: white;
-	width: 255px;
-	height: 50px;
+	margin: 0 auto;
+	padding-bottom: 2em;
+
+	font-size: 12px;
+	color: blue;
 }
+
+
+.q-mark-list{
+	height: 100%;
+	float: left;
+}
+
+
+
 
 
 
