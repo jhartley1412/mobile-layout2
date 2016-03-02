@@ -199,8 +199,14 @@ h3{
 }
 
 footer{
+	width: 100%;
 	padding-bottom: 3em;
 	background-color: black;
+}
+
+.foot-top{
+	padding-top: 2em;
+	padding-bottom: 0.5em;
 }
 
 .foot-link{
@@ -210,14 +216,11 @@ footer{
 	padding-right: 2em;
 }
 
-.foot-top{
-	padding-top: 2em;
-	padding-bottom: 0.5em;
-}
-
 .foot-logo{
-	width: 125px;
+	display: inline;
+	width: 170px;
 	padding-top: 2em;
+	margin: 0 auto;
 }
 
 
