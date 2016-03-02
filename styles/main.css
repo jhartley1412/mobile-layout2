@@ -5,9 +5,9 @@
 	width: 100%;
 	/*background-color: #3B4352;*/
 	padding-bottom: 3em;
-	background-image: url(https://s1.wp.com/home.logged-out//images/pic-crowd.webp?2);
-	background-size: cover;
+	background: url("file://PATH-TO/beige001.jpg");
 	background-position: center;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
