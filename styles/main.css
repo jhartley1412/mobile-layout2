@@ -38,6 +38,11 @@ nav{
 	top: 0;
 }
 
+.sign-in:hover{
+	background-color: #426296;
+	cursor: pointer;
+}
+
 .sign-in p{
 	color: white;
 	font-size: 18px;
@@ -72,12 +77,22 @@ h2{
 	background-color: #598BBC;
 }
 
+.create-site:hover{
+	background-color: #597cbd;
+	cursor: pointer;
+
+}
+
 .create-site p{
 	text-align: center;
 	color: white;
 	font-size: 24px;
 	padding-top: 0.4em;
 	margin: 0 auto;
+}
+
+.create-site p:hover{
+	cursor: pointer;
 }
 
 
@@ -200,12 +215,12 @@ h3{
 
 footer{
 	width: 100%;
-	padding-bottom: 3em;
+	padding-top: 1em;
 	background-color: black;
 }
 
 .foot-top{
-	padding-top: 2em;
+	padding-top: 1em;
 	padding-bottom: 0.5em;
 }
 
@@ -219,7 +234,6 @@ footer{
 .foot-logo{
 	display: inline;
 	width: 170px;
-	padding-top: 2em;
 	margin: 0 auto;
 }
 
