@@ -118,6 +118,7 @@ h2{
 #cs-bottom{
 	padding: 1em auto 5em auto;
 	margin: 1em auto;
+	font-family: 'Droid Sans';
 }
 
 
@@ -141,28 +142,44 @@ h2{
 .first-page-list{
 	width: 25em;
 	height: 6em;
-	background-color: white;
 	margin: 0 auto 2em auto;
 }
 
-.q-mark-list{
-	height: 100%;
-	padding-right: 1em;
+.icon-contain{
 	float: left;
+	width: 100px;
+	text-align: center;
+
+}
+
+.first-page-icons{
+	color: white;
+	padding-top: 0.1em;
+}
+
+.first-page-icons.fa-newspaper-o{
+	padding-top: 0.2em;
+	padding-left: -0.2em;
+}
+
+.first-page-icons.fa-paint-brush{
+	padding-top: 0.2em;
+}
+
+.first-page-list p{
+	color: white;
+	margin: 0 auto;
+	padding-left: 2em;
+	padding-bottom: 0.3em;
 }
 
 .list-header{
 	font-size: 17px;
-	color: #4E6376;
 	padding-top: 1.1em;
-	margin: 0 auto;
 }
 
 .list-caption{
 	font-size: 14px;
-	color: #4E6376;
-	margin: 0 auto;
-	padding-top: 1em;
 }
 
 
@@ -216,6 +233,18 @@ h2{
 	padding-top: 0.2em;
 	padding-bottom: 0.9em;
 	margin: 0 auto;
+}
+
+.second-page-icons{
+	color: #627D96;
+	background-color: #CAD1D7;
+	border-radius: 50px; 
+	width: 85px;
+	height: 85px;
+}
+
+.fa-lightbulb-o{
+	 
 }
 
 h3{
