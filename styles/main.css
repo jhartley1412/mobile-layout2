@@ -145,9 +145,12 @@ h2{
 	margin: 0 auto 2em auto;
 }
 
-.icon-contain{
+.first-page-list .icon-contain{
 	float: left;
 	width: 100px;
+}
+
+.icon-contain{
 	text-align: center;
 
 }
@@ -235,16 +238,21 @@ h2{
 	margin: 0 auto;
 }
 
-.second-page-icons{
+.icon-contain.circle{
 	color: #627D96;
 	background-color: #CAD1D7;
 	border-radius: 50px; 
 	width: 85px;
 	height: 85px;
+	margin: 0 auto;
 }
 
-.fa-lightbulb-o{
-	 
+.second-page-icons{
+	 padding-top: 0.14em;
+}
+
+.fa-search, .fa-comment{
+	padding-top: 0.3em;
 }
 
 h3{
