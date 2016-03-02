@@ -285,7 +285,9 @@ footer{
 	color: white;
 	text-decoration: none;
 	padding-right: 2em;
+	display: inline-block;
 }
+
 
 .foot-logo{
 	display: inline;
